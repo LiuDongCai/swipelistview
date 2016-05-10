@@ -81,7 +81,7 @@ public class MainActivity extends Activity {
 	 */
 	private void initData() {
 		for (int i = 0; i < 200; i++) {
-			mDataList.add("三英战吕布"+i);
+			mDataList.add("水淹七军"+i);
 		}
 	}
 	
