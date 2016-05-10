@@ -1,4 +1,4 @@
 # swipelistview
 Left slide delete function, no bug
 
-×ó»¬„h³ı£¬½â›Q¬FÔÚ¸÷î×ó»¬„h³ıí—Ä¿µÄbug£¡
+å·¦æ»‘åˆªé™¤ï¼Œè§£æ±ºç¾åœ¨å„é¡å·¦æ»‘åˆªé™¤é …ç›®çš„bugï¼
